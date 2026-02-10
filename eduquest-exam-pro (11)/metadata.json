@@ -1,7 +1,0 @@
-{
-  "name": "EduQuest Exam Pro",
-  "description": "A comprehensive exam management system with AI proctoring, featuring automated integrity monitoring and detailed candidate reporting.",
-  "requestFramePermissions": [
-    "camera"
-  ]
-}
